@@ -1,0 +1,3 @@
+if (data.meals) {
+    const { strMeal: name, strCategory: cat, strArea: area, strinstructions: instructions,strMealThumb:image,strYoutube: };
+  }
